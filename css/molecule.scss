@@ -1,4 +1,12 @@
-#things to add in this framework
+// #things to add in this framework
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Bree Serif', serif;
+}
 
 //multiple fonts - behind the scenes user can add multiple fonts
 //helper classes

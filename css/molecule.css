@@ -1,1 +1,23 @@
-/* No CSS *//*# sourceMappingURL=molecule.css.map */
+@import url("https://fonts.googleapis.com/css?family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Poppins&display=swap");
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bree Serif', serif;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+/*# sourceMappingURL=molecule.css.map */
